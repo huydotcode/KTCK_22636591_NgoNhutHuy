@@ -22,7 +22,6 @@ const menu = [
       { label: "Khoa Công nghệ Thông tin", href: "#" },
     ],
   },
-  // ... các mục khác
 ];
 
 function SidebarMenu() {
