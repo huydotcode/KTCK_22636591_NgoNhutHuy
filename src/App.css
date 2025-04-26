@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.body-background {
+  background: #F1F1F2 url("/img/background.png") scroll center 15px no-repeat
+}
