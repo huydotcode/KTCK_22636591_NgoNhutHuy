@@ -6,7 +6,7 @@ interface Props {
 
 const Container = ({ children }: Props) => {
   return (
-    <div className="relative w-full min-h-screen body-background p-4">
+    <div className="@container relative w-full min-h-screen body-background p-4 mx-auto max-w-[1400px]">
       {children}
     </div>
   );
